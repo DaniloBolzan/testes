@@ -1,0 +1,14 @@
+*{
+    padding: 20px;
+}
+
+body {background-color: pink;}
+h1 {color: green; font-size: 50px; font-weight: 900;}
+p {color: rgb(1, 15, 133); font-weight: 900;}
+
+.center {text-align: center;}
+
+.fonte-30 {font-size: 30px;}
+
+#teste1 {background-color: rgb(255, 0, 255); font-size: small;}
+#teste2 {background-color: brown; font-style: italic;}
